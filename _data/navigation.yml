@@ -1,7 +1,11 @@
 # main links
 main:
+  - title: "HOME"
+    url: https://MyCryptoWorld.com
   - title: "White Paper"
-    url: https://MyCryptoWorld.com/WhitePaper/
+    url: https://MyCryptoWorld.com/WhitePaper/    
+  - title: "Office"
+    url: https://MyCryptoWorld.com/office/
   - title: "HomePage Guide"
     url: https://MyCryptoWorld.com/doku/
 #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
