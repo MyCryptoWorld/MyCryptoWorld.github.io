@@ -8,13 +8,13 @@
 # Site Settings
 # locale                 : "en"
 locale                   : "de"
-title                    : "Site Title"
+title                    : "MyCryptoWorld.com"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "MyCryptoWorld"
+description              : "MyCryptoWorld ist ein neues kratives und disruptives Ökosystem"
 url                      : "https://MyCryptoWorld.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "minimal-mistakes"
+repository               : "MyCryptoWorld.github.io"
 #url                     : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                 : # the subpath of your site, e.g. "/blog"
 #repository              : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -81,10 +81,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "MyCryptoWorld"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "MyCryptoWorld ist ein neues kratives und disruptives Ökosystem"
+  location         : "On mother earth"
   email            :
   uri              :
   bitbucket        :
