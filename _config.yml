@@ -12,8 +12,8 @@ title                    : "MyCryptoWorld"
 title_separator          : "-"
 name                     : "MyCryptoWorld.com"
 description              : "MyCryptoWorld ist ein neues kratives und disruptives Ökosystem"
-url                      : "https://MyCryptoWorld.com/github"
-#url                     : "https://MyCryptoWorld.github.io"
+#url                     : "https://MyCryptoWorld.com/github"
+url                      : "https://MyCryptoWorld.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "MyCryptoWorld.github.io"
 #url                     : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -82,7 +82,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "MyCryptoWorld.com"
+  name             : "MyCryptoWorld"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ".NEU.KREATIV.DISRUPTIV."
   #bio             : "Neu.KreatiV.DisruptiV"
